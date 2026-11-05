@@ -1,10 +1,10 @@
-Hi, I’m Reazul Karim 👋
+<b> Hi, I’m Reazul Karim</b> 👋
 
 Senior Product Designer focused on building clear, useful, and user-centered digital experiences.
 
 I work across product strategy, UX research, user flows, interaction design, and design systems. I enjoy turning complex product problems into simple experiences—and using AI tools to make the design process more thoughtful and efficient.
 
-⁠Portfolio
+⁠<a href="https://helloreazul.com" target="_blank">Portfolio</a> || <a href="https://www.linkedin.com/in/helloreazul/" target="_blank">Linkedin</a>
 
 ⸻
 
@@ -64,5 +64,4 @@ Working closely with developers, product managers, and stakeholders to refine de
 ⸻
 
 Connect
-
-* Portfolio: ⁠helloreazul.com * linkedin: ⁠linkedin.com/in/helloreazul
+<a href="https://helloreazul.com" target="_blank">Portfolio</a> || <a href="https://www.linkedin.com/in/helloreazul/" target="_blank">Linkedin</a>
