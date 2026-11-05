@@ -1,4 +1,4 @@
-<h1>Hi, I’m Reazul Karim 👋</h1>
+<h1>Hello, I’m Reazul Karim 👋</h1>
 
 Senior Product Designer focused on building clear, useful, and user-centered digital experiences.
 
