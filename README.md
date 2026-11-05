@@ -58,7 +58,7 @@ Creating information architecture, user flows, wireframes, high-fidelity interfa
 * Design Systems & Validation (Validate)<br/>
 Building reusable components, consistent design patterns, and scalable design systems while validating ideas through feedback and usability reviews.
 
-* ollaboration & Delivery (Deliver)<br/>
+* Collaboration & Delivery (Deliver)<br/>
 Working closely with developers, product managers, and stakeholders to refine designs, ensure technical feasibility, and deliver implementation-ready solutions.
 
 
